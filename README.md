@@ -2,7 +2,7 @@
 Mod tool for Bluetooth Toys with Phy62xx / ST17H66B2
 
 ## Connection
-Either using usb or uart-to-usb converter (solder cables to TX + RX testpoints on pcb).
+Either using usb or uart-to-usb converter (solder cables to TX + RX testpoints on pcb). In order to dump, shortly connect TM testpad with VCC and release immediately to enter test mode for dumping/flashing.
 
 ## Documentation
 [PHY6222/6252 SDK 3.11](https://github.com/zxf1023818103/release_bbb_sdk-PHY62XX_SDK_3.1.1)
